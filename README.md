@@ -81,3 +81,5 @@ Documentation and initial ESP32 prototype code prepared. Hardware implementation
 Conclusion
 
 This project demonstrates how IoT and embedded systems can be used to monitor water levels and provide early warnings for potential flood situations.
+
+circuit_diagram - Circuit diagram of the project
